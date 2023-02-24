@@ -13,8 +13,7 @@ double calculate_bmi(double height, double weight)
 int main()
 {
 
-    bool isFedUp = true;
-    double height, weight;
+       double height, weight;
     cout << "Enter your height in centimeters: ";
     cin >> height;
     cout << "Enter your weight in kilograms: ";
