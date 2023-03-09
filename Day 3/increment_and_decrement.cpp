@@ -35,7 +35,7 @@ int main()
 
     cout << endl;
 
-    // Example 3 - pre increment
+    // Example 3 - post increment
     counter = 10;
     result = 0;
 
