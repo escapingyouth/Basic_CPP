@@ -9,6 +9,8 @@ int main()
     int total_number{8};
     double average{0.0};
 
+    bool isPostive{true};
+
     average = total_amount / total_number;
 
     cout << average << endl; // displays 12
