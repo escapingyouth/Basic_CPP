@@ -21,7 +21,7 @@ int main()
         running_sum += temp;
     }
 
-    cout << fixed << setprecision(1);
+    cout << fixed << setprecision(1); 
 
     average_temp = running_sum / temperatures.size();
     cout << average_temp << endl;

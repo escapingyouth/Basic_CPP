@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    int myNumber = (5 > 2) ? 3 : 6;
+    char myName[8]{"Michael"};
 
-    cout << myNumber;
+    cout << myName[6] << endl;
 
     return 0;
 }
