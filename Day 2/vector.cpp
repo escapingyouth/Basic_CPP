@@ -12,7 +12,8 @@ int main()
     // declaring and initializing vectors
     vector<int> test_scores{100, 95, 99};
 
-    vector<double> cwa(3);           // 3 elements all initialized to 0
+    vector<double> cwa(3); // 3 elements all initialized to 0
+
     vector<int> math_scores(3, 100); // 3 elements all initialized to 100
 
     // accessing elements in vectors

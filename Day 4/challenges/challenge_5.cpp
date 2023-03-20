@@ -1,5 +1,5 @@
 /*
- * Section Challenge
+ * Challenge 5
  * ===================
  * This challenge is about using collection (list) of integers and allowing
  * the user to select operations from a menu to perform operations on the list.
