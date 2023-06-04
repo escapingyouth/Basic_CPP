@@ -11,16 +11,16 @@ int main()
     char full_name[50]{};
     char temp[50]{};
 
-    // cout << "Please enter your first name: ";
-    // cin >> first_name;
+    cout << "Please enter your first name: ";
+    cin >> first_name;
 
-    // cout << "Please enter your last name: ";
-    // cin >> last_name;
+    cout << "Please enter your last name: ";
+    cin >> last_name;
 
-    // cout << "--------------------------" << endl;
+    cout << "--------------------------" << endl;
 
-    // cout << "Hello " << first_name << " your first name has " << strlen(first_name) << " characters" << endl;
-    // cout << "and your last name " << last_name << " has " << strlen(last_name) << " characters" << endl;
+    cout << "Hello " << first_name << " your first name has " << strlen(first_name) << " characters" << endl;
+    cout << "and your last name " << last_name << " has " << strlen(last_name) << " characters" << endl;
 
     // strcpy(full_name, first_name); // copy first_name to full_name
     // strcat(full_name, " ");        // concatenate full_name and a space

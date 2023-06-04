@@ -59,6 +59,7 @@ int main()
     std::cout << "\n--------------------" << std::endl;
 
     int x{100}, y{200};
+
     std::cout << "\nx: " << x << std::endl;
     std::cout << "\ny: " << y << std::endl;
 
